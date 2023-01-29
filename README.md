@@ -5,5 +5,5 @@
 ~~~
 $ pip install -r requirements.txt
 
-$ 
+$ python age_calc.py 
 ~~~
